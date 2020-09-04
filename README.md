@@ -1,3 +1,5 @@
+<p><img align="center" src="banner.png" alt="" style="border-radius: 10px"/></p>
+
 <h1 align="center">Hi 👋, I'm Bernhard</h1>
 
 - 🔭 I’m currently working on [Digitales Wartezimmer](https://digitales-wartezimmer.org)
