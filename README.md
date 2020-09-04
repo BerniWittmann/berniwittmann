@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github.com/BerniWittmann/berniwittmann/blob/master/banner.png" alt="" style="border-radius: 10px"/></p>
+<p><img align="center" src="https://github.com/BerniWittmann/berniwittmann/blob/master/banner.png" alt=""/></p>
 
 <h1 align="center">Hi 👋, I'm Bernhard</h1>
 
