@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Bernhard</h1>
 
-<!--
-**BerniWittmann/berniwittmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Digitales Wartezimmer](https://digitales-wartezimmer.org)
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [bernhardwittmann.com](https://bernhardwittmann.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I regulary write articles on [dev.to](https://dev.to/berniwittmann)
+
+- 📫 How to reach me **dev@bernhardwittmann.com**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berniwittmann&show_icons=true" alt="berniwittmann" /></p>
+
+<p align="center">
+
+<a href="https://github.com/berniwittmann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
+  <a href="https://gitlab.com/berniwittmann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="gitlab" height="30" width="30" /></a>
+  <a href="https://dev.to/berniwittmann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" width="30" /></a>
+<a href="http://xing.to/Bernhard_Wittmann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg" alt="xing" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/bernhard-wittmann" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+</p>
