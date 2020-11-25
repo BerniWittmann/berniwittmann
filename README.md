@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Bernhard</h1>
 
+- 💼 I work as a Software Development Engineer at [Monkee](https://monkee.rocks)
+
 - 🔭 I’m currently working on [Digitales Wartezimmer](https://digitales-wartezimmer.org)
 
 - 👨‍💻 All of my projects are available at [bernhardwittmann.com](https://bernhardwittmann.com)
