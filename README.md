@@ -4,11 +4,7 @@
 
 - 💼 I work as a Software Development Engineer at [Monkee](https://monkee.rocks)
 
-- 🔭 I’m currently working on [Digitales Wartezimmer](https://digitales-wartezimmer.org)
-
-- 👨‍💻 All of my projects are available at [bernhardwittmann.com](https://bernhardwittmann.com)
-
-- 📝 I regulary write articles on [dev.to](https://dev.to/berniwittmann)
+- 👨‍💻 All of my projects and info about me are available at [bernhardwittmann.com](https://bernhardwittmann.com)
 
 - 📫 How to reach me **dev@bernhardwittmann.com**
 
