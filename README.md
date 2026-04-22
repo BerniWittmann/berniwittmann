@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Bernhard</h1>
 
-- 💼 I work as a Software Software Engineer at [n8n](https://github.com/n8n-io)
+- 💼 I work as a Senior Software Engineer at [n8n](https://github.com/n8n-io)
 
 - 👨‍💻 All of my projects and info about me are available at [bernhardwittmann.com](https://bernhardwittmann.com)
 
